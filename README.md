@@ -13,6 +13,13 @@ A simple and interactive Tic Tac Toe game built with HTML, CSS, and JavaScript. 
 - **Multiplayer:** Play against a friend locally and see who's the Tic Tac Toe champion.
 - **Clean Code:** Readable and well-organized code for easy understanding and future development.
 
+## 🛠 Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+- ![Spotify Clone](result.gif)
+
 ## How to Play
 
 1. Clone the repository:
